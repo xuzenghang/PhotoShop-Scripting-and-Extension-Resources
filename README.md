@@ -3,13 +3,13 @@ A getting started list of Photoshop Scripting resources
 
 ## get the docuemnt from Adobe
 
-- [Adobe Introduction to Scripting.pdf](https://www.adobe.com/devnet/photoshop/scripting.html)
+- [Adobe Introduction to Scripting.pdf](https://www.adobe.com/content/dam/acom/en/devnet/illustrator/pdf/adobe_intro_to_scripting.pdf)
 
 - [Adobe Scriting Reference Page](https://www.adobe.com/devnet/photoshop/scripting.html) - Get document based on your Photoshop version. 
 
 ## debugging
 
-- [ExtendScript Debugger Extension](https://www.adobe.com/devnet/photoshop/scripting.html) - There is a offical extension that enables debugging if you use Visual Studio Code.
+- [ExtendScript Debugger Extension](https://marketplace.visualstudio.com/items?itemName=Adobe.extendscript-debug) - There is a offical extension that enables debugging if you use Visual Studio Code.
 
 ## Using UI
 
